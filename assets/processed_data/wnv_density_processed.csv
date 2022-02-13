@@ -1,0 +1,344 @@
+year,Address,WnvPresent
+2007,"1000 East 67th Street, Chicago, IL 60637, USA",2
+2007,"1000 North Central Park Avenue, Chicago, IL 60651, USA",0
+2007,"1000 South California Avenue, Chicago, IL 60612, USA",0
+2007,"1000 West 95th Street, Chicago, IL 60643, USA",1
+2007,"1100 North Artesian Avenue, Chicago, IL 60622, USA",3
+2007,"1100 Roosevelt Road, Chicago, IL 60608, USA",2
+2007,"1100 South California Avenue, Chicago, IL 60612, USA",0
+2007,"1100 South Peoria Street, Chicago, IL 60608, USA",1
+2007,"1100 South State Street, Chicago, IL 60605, USA",0
+2007,"1100 West Chicago Avenue, Chicago, IL 60642, USA",1
+2007,"1200 West Greenleaf Avenue, Chicago, IL 60626, USA",0
+2007,"1400 North Sacramento Avenue, Chicago, IL 60622, USA",2
+2007,"1500 North Long Avenue, Chicago, IL 60651, USA",0
+2007,"1500 West Granville Avenue, Chicago, IL 60660, USA",0
+2007,"1500 West Webster Avenue, Chicago, IL 60614, USA",3
+2007,"1700 North Pulaski Road, Chicago, IL 60639, USA",1
+2007,"1700 West 95th Street, Chicago, IL 60643, USA",1
+2007,"1800 West Farwell Avenue, Chicago, IL 60626, USA",0
+2007,"1800 West Leland Avenue, Chicago, IL 60640, USA",0
+2007,"2000 East 111th Street, Chicago, IL 60628, USA",1
+2007,"2100 North Lawler Avenue, Chicago, IL 60639, USA",2
+2007,"2100 North Stave Street, Chicago, IL 60647, USA",0
+2007,"2100 South Hamlin Avenue, Chicago, IL 60623, USA",0
+2007,"2200 North Cannon Drive, Chicago, IL 60614, USA",0
+2007,"2200 West 113th Street, Chicago, IL 60643, USA",8
+2007,"2200 West 51st Street, Chicago, IL 60609, USA",4
+2007,"2200 West 69th Street, Chicago, IL 60636, USA",0
+2007,"2200 West 89th Street, Chicago, IL 60643, USA",6
+2007,"2200 West Pershing Road, Chicago, IL 60609, USA",0
+2007,"2400 East 105th Street, Chicago, IL 60617, USA",9
+2007,"2500 South Millard Avenue, Chicago, IL 60623, USA",1
+2007,"2500 South Throop Street, Chicago, IL 60608, USA",0
+2007,"2500 West Grand Avenue, Chicago, IL 60654, USA",0
+2007,"2700 South Western Avenue, Chicago, IL 60608, USA",0
+2007,"2800 North Francisco Avenue, Chicago, IL 60618, USA",0
+2007,"3000 South Hoyne Avenue, Chicago, IL 60608, USA",1
+2007,"3000 West 18th Street, Chicago, IL 60608, USA",0
+2007,"3300 North Rutherford Avenue, Chicago, IL 60634, USA",2
+2007,"3300 West 104th Street, Chicago, IL 60655, USA",1
+2007,"3300 West Randolph Street, Chicago, IL 60612, USA",0
+2007,"3500 West 116th Street, Chicago, IL 60655, USA",1
+2007,"3500 West 51st Street, Chicago, IL 60632, USA",1
+2007,"3600 North Pittsburgh Avenue, Chicago, IL 60634, USA",7
+2007,"3700 118th Street, Chicago, IL 60617, USA",3
+2007,"3700 North Kedvale Avenue, Chicago, IL 60641, USA",0
+2007,"3700 South Pulaski Road, Chicago, IL 60623, USA",1
+2007,"3800 East 115th Street, Chicago, IL 60617, USA",3
+2007,"3800 North California Avenue, Chicago, IL 60618, USA",0
+2007,"3900 South Ashland Avenue, Chicago, IL 60609, USA",2
+2007,"4000 East 130th Street, Chicago, IL 60633, USA",5
+2007,"4000 North Austin Avenue, Chicago, IL 60634, USA",1
+2007,"4000 North Tripp Avenue, Chicago, IL 60641, USA",0
+2007,"4000 South Dearborn Street, Chicago, IL 60609, USA",2
+2007,"4100 North Oak Park Avenue, Chicago, IL 60634, USA",8
+2007,"4200 North Richmond Street, Chicago, IL 60618, USA",0
+2007,"4200 West 127th Street, Alsip, IL 60803, USA",7
+2007,"4200 West 31st Street, Chicago, IL 60623, USA",1
+2007,"4500 North Campbell Avenue, Chicago, IL 60625, USA",2
+2007,"4600 Milwaukee Avenue, Chicago, IL 60630, USA",4
+2007,"4700 South Cornell Avenue, Chicago, IL 60615, USA",0
+2007,"4900 West Balmoral Avenue, Chicago, IL 60630, USA",0
+2007,"4900 West Sunnyside Avenue, Chicago, IL 60630, USA",0
+2007,"5000 South Central Avenue, Chicago, IL 60638, USA",0
+2007,"5000 South Union Avenue, Chicago, IL 60609, USA",6
+2007,"5200 South Kolmar Avenue, Chicago, IL 60632, USA",4
+2007,"5200 South Nordica Avenue, Chicago, IL 60638, USA",2
+2007,"5300 West Agatite Avenue, Chicago, IL 60630, USA",0
+2007,"5500 South Doctor Martin Luther King Junior Drive, Chicago, IL 60637, USA",0
+2007,"5800 North Pulaski Road, Chicago, IL 60646, USA",0
+2007,"5800 North Western Avenue, Chicago, IL 60659, USA",2
+2007,"6000 North Avondale Avenue, Chicago, IL 60631, USA",4
+2007,"6000 West Montrose Avenue, Chicago, IL 60634, USA",0
+2007,"6000 West Roscoe Street, Chicago, IL 60634, USA",2
+2007,"6100 North Lemont Avenue, Chicago, IL 60646, USA",2
+2007,"6100 South Melvina Avenue, Chicago, IL 60638, USA",0
+2007,"6100 West Fullerton Avenue, Chicago, IL 60639, USA",0
+2007,"6200 North Mandell Avenue, Chicago, IL 60646, USA",0
+2007,"6300 West 64th Street, Chicago, IL 60638, USA",3
+2007,"6400 South Stony Island Avenue, Chicago, IL 60637, USA",0
+2007,"6400 West Strong Street, Chicago, IL, USA",4
+2007,"6500 North Oak Park Avenue, Chicago, IL 60631, USA",6
+2007,"6500 South Racine Avenue, Chicago, IL 60636, USA",0
+2007,"6600 South Kilpatrick Avenue, Chicago, IL 60629, USA",1
+2007,"6700 South Kedzie Avenue, Chicago, IL 60629, USA",1
+2007,"6800 West Belden Avenue, Chicago, IL 60707, USA",1
+2007,"7000 North Moselle Avenue, Chicago, IL 60646, USA",5
+2007,"7000 West Armitage Avenue, Chicago, IL 60707, USA",1
+2007,"7100 South South Shore Drive, Chicago, IL 60649, USA",0
+2007,"7200 North Oketo Avenue, Chicago, IL 60631, USA",7
+2007,"7300 Cicero Avenue, Chicago, IL 60638, USA",1
+2007,"7500 North Oakley Avenue, Chicago, IL 60645, USA",0
+2007,"7700 South Eberhart Avenue, Chicago, IL 60619, USA",1
+2007,"7900 South South Chicago Avenue, Chicago, IL 60617, USA",1
+2007,"7900 West Foster Avenue, Chicago, IL 60656, USA",4
+2007,"8000 South Kedzie Avenue, Chicago, IL 60652, USA",0
+2007,"8900 South Carpenter Street, Chicago, IL 60620, USA",2
+2007,"8900 South Muskegon Avenue, Chicago, IL 60617, USA",0
+2007,"9100 West Higgins Avenue, Chicago, IL 60656, USA",3
+2007,"9300 South Doctor Martin Luther King Junior Drive, Chicago, IL 60619, USA",1
+2007,"9600 South Hoyne Avenue, Chicago, IL 60643, USA",0
+2007,"9800 South Avenue G, Chicago, IL 60617, USA",0
+2007,"Chicago Midway International Airport (MDW), 5200 West 63rd Street, Chicago, IL 60638, USA",3
+2007,"Chicago, IL, USA",1
+2007,"East 138th Street, Riverdale, IL 60827, USA",1
+2007,"East 91st Street, Chicago, IL, USA",2
+2007,"North Streeter Drive, Chicago, IL 60611, USA",0
+2007,"South Avenue L, Chicago, IL 60617, USA",6
+2007,"South Brandon Avenue, Chicago, IL 60617, USA",3
+2007,"South Cottage Grove Avenue, Chicago, IL, USA",0
+2007,"South Doty Avenue, Chicago, IL, USA",36
+2007,"South Mackinaw Avenue, Chicago, IL 60617, USA",0
+2007,"South Stony Island Avenue, Chicago, IL, USA",16
+2007,"South Torrence Avenue, Chicago, IL, USA",1
+2007,"South Vincennes Avenue, Chicago, IL, USA",1
+2007,"University of Illinois at Chicago, 1100 South Ashland Avenue, Chicago, IL 60607, USA",2
+2007,"West 37th Place, Chicago, IL, USA",0
+2009,"1000 East 67th Street, Chicago, IL 60637, USA",0
+2009,"1000 North Central Park Avenue, Chicago, IL 60651, USA",0
+2009,"1100 North Artesian Avenue, Chicago, IL 60622, USA",1
+2009,"1100 Roosevelt Road, Chicago, IL 60608, USA",0
+2009,"1100 South California Avenue, Chicago, IL 60612, USA",0
+2009,"1100 West Chicago Avenue, Chicago, IL 60642, USA",0
+2009,"1200 West Greenleaf Avenue, Chicago, IL 60626, USA",0
+2009,"1300 North Laramie Avenue, Chicago, IL 60651, USA",1
+2009,"1400 North Sacramento Avenue, Chicago, IL 60622, USA",0
+2009,"1500 North Long Avenue, Chicago, IL 60651, USA",0
+2009,"1500 West Webster Avenue, Chicago, IL 60614, USA",0
+2009,"1700 North Pulaski Road, Chicago, IL 60639, USA",0
+2009,"1700 West 95th Street, Chicago, IL 60643, USA",0
+2009,"1700 West Addison Street, Chicago, IL 60613, USA",0
+2009,"2200 North Cannon Drive, Chicago, IL 60614, USA",0
+2009,"2200 West 51st Street, Chicago, IL 60609, USA",0
+2009,"2200 West 69th Street, Chicago, IL 60636, USA",0
+2009,"2400 East 105th Street, Chicago, IL 60617, USA",0
+2009,"2500 South Millard Avenue, Chicago, IL 60623, USA",0
+2009,"2500 West Grand Avenue, Chicago, IL 60654, USA",0
+2009,"2800 North Francisco Avenue, Chicago, IL 60618, USA",0
+2009,"3000 West 18th Street, Chicago, IL 60608, USA",0
+2009,"3300 North Rutherford Avenue, Chicago, IL 60634, USA",0
+2009,"3300 West 104th Street, Chicago, IL 60655, USA",2
+2009,"3500 West 116th Street, Chicago, IL 60655, USA",1
+2009,"3500 West 51st Street, Chicago, IL 60632, USA",0
+2009,"3600 North Pittsburgh Avenue, Chicago, IL 60634, USA",1
+2009,"3700 118th Street, Chicago, IL 60617, USA",0
+2009,"3700 North Kedvale Avenue, Chicago, IL 60641, USA",0
+2009,"3700 South Pulaski Road, Chicago, IL 60623, USA",0
+2009,"3900 North Springfield Avenue, Chicago, IL 60618, USA",1
+2009,"3900 South Ashland Avenue, Chicago, IL 60609, USA",0
+2009,"4000 East 130th Street, Chicago, IL 60633, USA",1
+2009,"4000 South Dearborn Street, Chicago, IL 60609, USA",0
+2009,"4100 North Oak Park Avenue, Chicago, IL 60634, USA",1
+2009,"4200 West 127th Street, Alsip, IL 60803, USA",0
+2009,"4500 North Campbell Avenue, Chicago, IL 60625, USA",0
+2009,"4600 Milwaukee Avenue, Chicago, IL 60630, USA",0
+2009,"4800 West Montana Street, Chicago, IL 60639, USA",0
+2009,"5000 South Central Avenue, Chicago, IL 60638, USA",1
+2009,"5000 South Union Avenue, Chicago, IL 60609, USA",0
+2009,"5100 North Mont Clare Avenue, Chicago, IL 60656, USA",0
+2009,"5200 South Kolmar Avenue, Chicago, IL 60632, USA",0
+2009,"5800 North Western Avenue, Chicago, IL 60659, USA",0
+2009,"6000 West Montrose Avenue, Chicago, IL 60634, USA",0
+2009,"6100 North Lemont Avenue, Chicago, IL 60646, USA",0
+2009,"6100 West Fullerton Avenue, Chicago, IL 60639, USA",1
+2009,"6300 West 64th Street, Chicago, IL 60638, USA",0
+2009,"6700 South Kedzie Avenue, Chicago, IL 60629, USA",0
+2009,"7000 North Moselle Avenue, Chicago, IL 60646, USA",0
+2009,"7000 West Armitage Avenue, Chicago, IL 60707, USA",0
+2009,"7100 South South Shore Drive, Chicago, IL 60649, USA",0
+2009,"7200 North Oketo Avenue, Chicago, IL 60631, USA",0
+2009,"7500 North Oakley Avenue, Chicago, IL 60645, USA",0
+2009,"7700 South Eberhart Avenue, Chicago, IL 60619, USA",0
+2009,"7900 South South Chicago Avenue, Chicago, IL 60617, USA",0
+2009,"8200 South Kostner Avenue, Chicago, IL 60652, USA",1
+2009,"8900 South Carpenter Street, Chicago, IL 60620, USA",0
+2009,"9100 West Higgins Road, Rosemont, IL 60018, USA",1
+2009,"Chicago Midway International Airport (MDW), 5200 West 63rd Street, Chicago, IL 60638, USA",0
+2009,"Chicago, IL, USA",0
+2009,"East 91st Place, Chicago, IL, USA",0
+2009,"ORD Terminal 5, O'Hare International Airport, Chicago, IL 60666, USA",2
+2009,"Ohare Court, Bensenville, IL 60106, USA",2
+2009,"South Brandon Avenue, Chicago, IL 60617, USA",0
+2009,"South Cottage Grove Avenue, Chicago, IL, USA",1
+2009,"South Doty Avenue, Chicago, IL, USA",0
+2009,"South Stony Island Avenue, Chicago, IL, USA",0
+2009,"South Torrence Avenue, Chicago, IL, USA",0
+2009,"South Vincennes Avenue, Chicago, IL, USA",0
+2009,"South Wallace Street, Chicago, IL, USA",0
+2009,"University of Illinois at Chicago, 1100 South Ashland Avenue, Chicago, IL 60607, USA",1
+2009,"West Garfield Boulevard, Chicago, IL, USA",0
+2011,"1000 East 67th Street, Chicago, IL 60637, USA",1
+2011,"1000 North Central Park Avenue, Chicago, IL 60651, USA",0
+2011,"1100 North Artesian Avenue, Chicago, IL 60622, USA",0
+2011,"1100 Roosevelt Road, Chicago, IL 60608, USA",0
+2011,"1100 South California Avenue, Chicago, IL 60612, USA",0
+2011,"1100 West Chicago Avenue, Chicago, IL 60642, USA",0
+2011,"1200 West Greenleaf Avenue, Chicago, IL 60626, USA",0
+2011,"1300 North Laramie Avenue, Chicago, IL 60651, USA",1
+2011,"1400 North Sacramento Avenue, Chicago, IL 60622, USA",0
+2011,"1700 North Ashland Avenue, Chicago, IL 60622, USA",0
+2011,"1700 North Pulaski Road, Chicago, IL 60639, USA",1
+2011,"1700 West 95th Street, Chicago, IL 60643, USA",0
+2011,"1700 West Addison Street, Chicago, IL 60613, USA",0
+2011,"2200 North Cannon Drive, Chicago, IL 60614, USA",0
+2011,"2200 West 51st Street, Chicago, IL 60609, USA",0
+2011,"2200 West 69th Street, Chicago, IL 60636, USA",0
+2011,"2400 East 105th Street, Chicago, IL 60617, USA",0
+2011,"2500 South Millard Avenue, Chicago, IL 60623, USA",0
+2011,"2500 West Grand Avenue, Chicago, IL 60654, USA",0
+2011,"2800 North Francisco Avenue, Chicago, IL 60618, USA",0
+2011,"2900 West 85th Street, Chicago, IL 60652, USA",0
+2011,"3000 West 18th Street, Chicago, IL 60608, USA",0
+2011,"3300 North Rutherford Avenue, Chicago, IL 60634, USA",0
+2011,"3300 West 104th Street, Chicago, IL 60655, USA",1
+2011,"3400 West 77th Street, Chicago, IL 60652, USA",0
+2011,"3500 West 116th Street, Chicago, IL 60655, USA",1
+2011,"3500 West 51st Street, Chicago, IL 60632, USA",0
+2011,"3600 North Pittsburgh Avenue, Chicago, IL 60634, USA",0
+2011,"3700 118th Street, Chicago, IL 60617, USA",0
+2011,"3700 North Kedvale Avenue, Chicago, IL 60641, USA",2
+2011,"3700 South Pulaski Road, Chicago, IL 60623, USA",0
+2011,"3900 North Springfield Avenue, Chicago, IL 60618, USA",0
+2011,"3900 South Ashland Avenue, Chicago, IL 60609, USA",0
+2011,"4000 East 130th Street, Chicago, IL 60633, USA",0
+2011,"4000 South Dearborn Street, Chicago, IL 60609, USA",1
+2011,"4100 North Oak Park Avenue, Chicago, IL 60634, USA",1
+2011,"4200 West 127th Street, Alsip, IL 60803, USA",0
+2011,"4200 West 65th Street, Chicago, IL 60621, USA",0
+2011,"4500 North Campbell Avenue, Chicago, IL 60625, USA",0
+2011,"4600 Milwaukee Avenue, Chicago, IL 60630, USA",3
+2011,"4800 West Montana Street, Chicago, IL 60639, USA",0
+2011,"5000 South Central Avenue, Chicago, IL 60638, USA",1
+2011,"5000 South Union Avenue, Chicago, IL 60609, USA",0
+2011,"5100 North Mont Clare Avenue, Chicago, IL 60656, USA",5
+2011,"5100 West 72nd Street, Chicago, IL 60638, USA",0
+2011,"5200 South Kolmar Avenue, Chicago, IL 60632, USA",2
+2011,"5800 North Pulaski Road, Chicago, IL 60646, USA",1
+2011,"5800 North Ridge Avenue, Chicago, IL 60660, USA",0
+2011,"5800 North Western Avenue, Chicago, IL 60659, USA",1
+2011,"6000 West Montrose Avenue, Chicago, IL 60634, USA",0
+2011,"6100 North Lemont Avenue, Chicago, IL 60646, USA",0
+2011,"6100 West Fullerton Avenue, Chicago, IL 60639, USA",1
+2011,"6200 North Mcclellan Avenue, Chicago, IL 60646, USA",0
+2011,"6300 West 64th Street, Chicago, IL 60638, USA",0
+2011,"6400 South Stony Island Avenue, Chicago, IL 60637, USA",0
+2011,"6700 South Kedzie Avenue, Chicago, IL 60629, USA",0
+2011,"7000 North Moselle Avenue, Chicago, IL 60646, USA",1
+2011,"7000 West Armitage Avenue, Chicago, IL 60707, USA",2
+2011,"7100 North Harlem Avenue, Chicago, IL 60631, USA",0
+2011,"7100 South South Shore Drive, Chicago, IL 60649, USA",0
+2011,"7500 North Oakley Avenue, Chicago, IL 60645, USA",0
+2011,"7700 South Eberhart Avenue, Chicago, IL 60619, USA",0
+2011,"7900 South South Chicago Avenue, Chicago, IL 60617, USA",1
+2011,"8200 South Kostner Avenue, Chicago, IL 60652, USA",2
+2011,"8900 South Carpenter Street, Chicago, IL 60620, USA",0
+2011,"8900 South Muskegon Avenue, Chicago, IL 60617, USA",0
+2011,"9100 West Higgins Road, Rosemont, IL 60018, USA",0
+2011,"Chicago Midway International Airport (MDW), 5200 West 63rd Street, Chicago, IL 60638, USA",0
+2011,"Chicago, IL, USA",0
+2011,"East 91st Place, Chicago, IL, USA",0
+2011,"ORD Terminal 5, O'Hare International Airport, Chicago, IL 60666, USA",18
+2011,"Ohare Court, Bensenville, IL 60106, USA",8
+2011,"South Brandon Avenue, Chicago, IL 60617, USA",0
+2011,"South Cottage Grove Avenue, Chicago, IL, USA",0
+2011,"South Doty Avenue, Chicago, IL, USA",1
+2011,"South Stony Island Avenue, Chicago, IL, USA",0
+2011,"South Torrence Avenue, Chicago, IL, USA",0
+2011,"South Vincennes Avenue, Chicago, IL, USA",0
+2011,"University of Illinois at Chicago, 1100 South Ashland Avenue, Chicago, IL 60607, USA",1
+2011,"West Garfield Boulevard, Chicago, IL, USA",0
+2013,"1000 East 67th Street, Chicago, IL 60637, USA",1
+2013,"1000 North Central Park Avenue, Chicago, IL 60651, USA",8
+2013,"1100 Roosevelt Road, Chicago, IL 60608, USA",2
+2013,"1100 South California Avenue, Chicago, IL 60612, USA",3
+2013,"1100 West Chicago Avenue, Chicago, IL 60642, USA",0
+2013,"1200 West Greenleaf Avenue, Chicago, IL 60626, USA",0
+2013,"1300 North Laramie Avenue, Chicago, IL 60651, USA",5
+2013,"1400 North Sacramento Avenue, Chicago, IL 60622, USA",3
+2013,"1700 North Ashland Avenue, Chicago, IL 60622, USA",2
+2013,"1700 North Pulaski Road, Chicago, IL 60639, USA",2
+2013,"1700 West 95th Street, Chicago, IL 60643, USA",3
+2013,"1700 West Addison Street, Chicago, IL 60613, USA",1
+2013,"2100 North Cannon Drive, Chicago, IL 60614, USA",1
+2013,"2200 North Cannon Drive, Chicago, IL 60614, USA",6
+2013,"2200 West 51st Street, Chicago, IL 60609, USA",4
+2013,"2200 West 69th Street, Chicago, IL 60636, USA",1
+2013,"2400 East 105th Street, Chicago, IL 60617, USA",2
+2013,"2500 South Millard Avenue, Chicago, IL 60623, USA",1
+2013,"2500 West Grand Avenue, Chicago, IL 60654, USA",0
+2013,"2800 North Francisco Avenue, Chicago, IL 60618, USA",4
+2013,"3000 West 18th Street, Chicago, IL 60608, USA",0
+2013,"3300 West 104th Street, Chicago, IL 60655, USA",1
+2013,"3500 West 116th Street, Chicago, IL 60655, USA",3
+2013,"3500 West 51st Street, Chicago, IL 60632, USA",0
+2013,"3600 North Pittsburgh Avenue, Chicago, IL 60634, USA",3
+2013,"3700 118th Street, Chicago, IL 60617, USA",0
+2013,"3700 South Pulaski Road, Chicago, IL 60623, USA",1
+2013,"3900 North Springfield Avenue, Chicago, IL 60618, USA",5
+2013,"3900 South Ashland Avenue, Chicago, IL 60609, USA",0
+2013,"4000 East 130th Street, Chicago, IL 60633, USA",3
+2013,"4100 North Oak Park Avenue, Chicago, IL 60634, USA",8
+2013,"4200 West 127th Street, Alsip, IL 60803, USA",1
+2013,"4200 West 65th Street, Chicago, IL 60621, USA",7
+2013,"4500 North Campbell Avenue, Chicago, IL 60625, USA",2
+2013,"4600 Milwaukee Avenue, Chicago, IL 60630, USA",7
+2013,"4800 West Montana Street, Chicago, IL 60639, USA",1
+2013,"5000 South Central Avenue, Chicago, IL 60638, USA",3
+2013,"5000 South Union Avenue, Chicago, IL 60609, USA",2
+2013,"5100 North Mont Clare Avenue, Chicago, IL 60656, USA",4
+2013,"5100 West 72nd Street, Chicago, IL 60638, USA",2
+2013,"5200 South Kolmar Avenue, Chicago, IL 60632, USA",3
+2013,"5800 North Pulaski Road, Chicago, IL 60646, USA",6
+2013,"5800 North Ridge Avenue, Chicago, IL 60660, USA",4
+2013,"5800 North Western Avenue, Chicago, IL 60659, USA",6
+2013,"6000 West Montrose Avenue, Chicago, IL 60634, USA",0
+2013,"6100 North Lemont Avenue, Chicago, IL 60646, USA",2
+2013,"6100 West Fullerton Avenue, Chicago, IL 60639, USA",8
+2013,"6200 North Mcclellan Avenue, Chicago, IL 60646, USA",1
+2013,"6300 West 64th Street, Chicago, IL 60638, USA",3
+2013,"6400 South Stony Island Avenue, Chicago, IL 60637, USA",1
+2013,"6700 South Kedzie Avenue, Chicago, IL 60629, USA",5
+2013,"7000 North Moselle Avenue, Chicago, IL 60646, USA",4
+2013,"7000 West Armitage Avenue, Chicago, IL 60707, USA",3
+2013,"7100 North Harlem Avenue, Chicago, IL 60631, USA",7
+2013,"7100 South South Shore Drive, Chicago, IL 60649, USA",1
+2013,"7700 South Eberhart Avenue, Chicago, IL 60619, USA",1
+2013,"7900 South South Chicago Avenue, Chicago, IL 60617, USA",0
+2013,"8200 South Kostner Avenue, Chicago, IL 60652, USA",8
+2013,"8900 South Carpenter Street, Chicago, IL 60620, USA",2
+2013,"8900 South Muskegon Avenue, Chicago, IL 60617, USA",0
+2013,"9100 West Higgins Road, Rosemont, IL 60018, USA",5
+2013,"9600 South Longwood Drive, Chicago, IL 60643, USA",0
+2013,"Chicago Midway International Airport (MDW), 5200 West 63rd Street, Chicago, IL 60638, USA",2
+2013,"Chicago, IL, USA",0
+2013,"East 91st Place, Chicago, IL, USA",4
+2013,"ORD Terminal 5, O'Hare International Airport, Chicago, IL 60666, USA",46
+2013,"Ohare Court, Bensenville, IL 60106, USA",0
+2013,"South Brandon Avenue, Chicago, IL 60617, USA",0
+2013,"South Cottage Grove Avenue, Chicago, IL, USA",1
+2013,"South Doty Avenue, Chicago, IL, USA",4
+2013,"South Stony Island Avenue, Chicago, IL, USA",0
+2013,"South Vincennes Avenue, Chicago, IL, USA",3
+2013,"University of Illinois at Chicago, 1100 South Ashland Avenue, Chicago, IL 60607, USA",3
+2013,"West Garfield Boulevard, Chicago, IL, USA",4
