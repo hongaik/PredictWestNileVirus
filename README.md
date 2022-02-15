@@ -1,4 +1,4 @@
-# PredictWestNileVirus
+# Predict West Nile Virus
  Darren, Hong Aik, Mun Yee, Sean, Yu Kiat
  
  Problem Statement
