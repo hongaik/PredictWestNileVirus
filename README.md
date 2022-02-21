@@ -22,7 +22,14 @@ The data is from a [Kaggle Competition](https://www.kaggle.com/c/predict-west-ni
  
  Model Scores
  ---
- 
+| Model                         | Train ROC AUC score | Test ROC AUC score |
+|-------------------------------|---------------------|--------------------|
+| MLP Classifier                | 0.897               | 0.875              |
+| Logistic Regression           | 0.815               | 0.794              |
+| Random Forest                 | 0.892               | 0.867              |
+| AdaBoost Classifier (untuned) | 0.898               | 0.884              |
+| AdaBoost Classifier (tuned)   | 0.916               | 0.884              |
+
  Cost Benefit Analysis
  ---
  The CDPH utilises mosquito adulticides, specifically Zenivex (Zenivex E20 costs $0.67 per acre ([Zenivex Price Brochure](../main/assets/2015-Zenivex-Pricing-Brochure.pdf))), to reduce the occurrence of the WNV. The spray is implemented at dusk and ends approximately 1 hour past midnight ([source](https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_communities/news/2020/august/city-to-spray-insecticide-thursday-to-kill-mosquitoes0.html)). 
@@ -33,5 +40,23 @@ The benefits of conducting the spray include: lowering the number of mosquitoes 
 
 Should spraying not be conducted, while the city would save \$446,156 annually, the cost of making such a decision is substantially greater. If a person is infected by the WNV, they may develop serious symptoms which could result in hospitalisation and treatment, which would in turn result in lost productivity. It is estimated that the WNV would cost about \$60,000,000 a year in medical fees and lost productivity ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945683/)).
 
- Conclusion & Recommendation
+ Conclusion
  ---
+ Based on our EDA and modeling, we uncovered the following pointers:
+- The probability of detecting WNV in mosquitos is correlated to the number of mosquitos present. In other words, if there are more mosquitos, the risk of WNV transmission is higher.
+- WNV-positive mosquitos are more prevalent in Jul - Sept; this corroborates evidence found online.
+- The increase in prevalence during these months also correlate with higher temperatures and humidity.
+- WNV density - the frequency which a trap tests positive - is the strongest indicator of whether WNV is present, followed by weather conditions
+
+Due to the limitations of the dataset, there are many factors which were not taken into account:
+- Time lag - all data across years were aggregated together when in fact WNV transmissions may not be uniform across years.
+- There could be other areas not under surveillance and hence not predicted upon - we might have missed hot spots to conduct sprays in.
+- Amount of training data was limited for certain months and locations.
+
+ Recommendations
+ ---
+We recommend the City of Chicago to carry out sprays in this fashion:
+- All trap locations which are predicted to be positive.
+- Conducting sprays on a monthly basis from Jun - Oct, the period where WNV is at its peak.
+- Spray frequency could even be increased in areas predicted to be "hot spots".
+- Since temperature and humidity are important indicators of WNV transmission, officials should monitor the weather round the year and look out for seasons of high temperature and humidity and conduct sprays accordingly, not only in months of Jun-Oct. This is particularly pertinent given that the climate is changing and WNV peak seasons may shift to other months.
