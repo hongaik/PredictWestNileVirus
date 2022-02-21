@@ -7,7 +7,7 @@ The leading cause of mosquito-borne disease in the United States is the West Nil
 
 In 2002, the first human cases of West Nile virus were reported in Chicago. By 2004 the City of Chicago and the Chicago Department of Public Health (CDPH) had established a comprehensive surveillance and control program that is still in effect today. Every week from late spring through the fall, mosquitos in traps across the city are tested for the virus. The results of these tests influence when and where the city will spray airborne pesticides to control adult mosquito populations. ([Kaggle](https://www.kaggle.com/c/predict-west-nile-virus/))
 
-We are given the weather, location, testing, and spraying data from the CDPH, which we will use to predict the presence of the West Nile Virus. Following te predictions, we will decide on where and when to deploy pesticides in the city, to maximise cost performance.
+We are given the weather, location, testing, and spraying data from the CDPH, which we will use to predict the presence of the West Nile Virus. Following the predictions, we will decide on where and when to deploy pesticides in the city, to maximise cost performance.
  
  Data
  ---
